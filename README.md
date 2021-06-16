@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on bigger projects
 - 🥅 2021 goals: Create a new project, collaborate on other projects and  travel around the world 🌏
 - 📫 How to reach me: marine.teroitin@gmail.com 📧
-- ⚡ Fun fact: I like cooking and sports 🏋️‍
+- ⚡ Fun fact: I collect sand from every trip I've made 🌊
 - 😸 Find me on [LinkedIn][linkedinurl]
 
 
