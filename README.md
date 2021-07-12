@@ -2,7 +2,7 @@
 
 ### I'm a french Computer Sciences & Managment engineering student at [Polytech][polyurl]!
 
-- 🔭 I’m currently working on [http://marinesrecipes.fr][marinesrecipesweb] and on https://www.evolytes.com/fr-FR/home[evolytes]
+- 🔭 I’m currently working on [http://marinesrecipes.fr][marinesrecipesweb] and on [https://www.evolytes.com/fr-FR/home] [evolytes]
 - 🌱 I’m currently learning the clean architecture and react native 😋
 - 👯 I’m looking to collaborate on bigger projects
 - 🥅 2021 goals: Create a new project called Bullette 🦨, collaborate on my project Marine's recipes 🍉 and  travel around the world 🌏
