@@ -3,9 +3,9 @@
 ### I'm a french Computer Sciences & Managment engineering student at [Polytech][polyurl]!
 
 - 🔭 I’m currently working on [http://marinesrecipes.fr][marinesrecipesweb] and on [evolytes]
-- 🌱 I’m currently learning the clean architecture and react native 😋
+- 🌱 I’m currently learning the clean architecture 😋
 - 👯 I’m looking to collaborate on bigger projects
-- 🥅 2021 goals: Create a new project called Bullette 🦨, collaborate on my project Marine's recipes 🍉 and  travel around the world 🌏
+- 🥅 2021 goals: Collaborate on my project Marine's recipes 🍉 and  travel around the world 🌏
 - 📫 How to reach me: marine.teroitin@gmail.com 📧
 - ⚡ Fun fact: I collect sand from every trip I've made 🌊
 - 😸 Find me on [LinkedIn][linkedinurl]
