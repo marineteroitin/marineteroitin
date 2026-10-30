@@ -1,10 +1,11 @@
 ## Hello, I'm Marine 👋
 
-### I'm a french Software engineer at [Hero][herourl]!
+### I'm a French Full Stack Software Engineer at [TheFork][theforkurl]!
 
-- 🔭 I’m currently working on business account, yield, pricing and billing subjects.
-- 🌱 I’m currently learning react and react native 😋
-- 🥅 2025 goals: Travel around the world 🌏
+- 🔭 I'm currently working full stack and learning **microservices**.
+- 🎨 I'm doing more and more front-end to level up in **React** and **design**.
+- 🏋️ Side project: **[Sélite][seliteurl]**, a structured training app that helps candidates pass the physical tests of the French gendarmerie exams, with a program tailored to their starting level so they're ready on exam day. It's also where I keep practicing **clean architecture**.
+- 🥅 2026 goals: Travel around the world 🌏 (same as 2025, still on it!)
 - 📫 How to reach me: marine.teroitin@gmail.com 📧
 - ⚡ Fun fact: I collect sand from every trip I've made 🌊
 - 😸 Find me on [LinkedIn][linkedinurl]
@@ -19,5 +20,6 @@
 <img align="left" alt="intellij" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />
 
 
-[herourl]: [https://www.partoo.co/](https://www.heropay.eu/)
+[theforkurl]: https://www.thefork.com/
+[seliteurl]: https://selite-webapp-one.vercel.app/fr
 [linkedinurl]: https://www.linkedin.com/in/marine-téroitin-61007b19b/
